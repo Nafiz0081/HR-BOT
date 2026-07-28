@@ -1,0 +1,11 @@
+app = "hr-bot-nafiz"
+primary_region = "sin"
+
+[build]
+
+[http_service]
+
+[[vm]]
+  memory = "256mb"
+  cpu_kind = "shared"
+  cpus = 1
